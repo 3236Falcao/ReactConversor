@@ -1,5 +1,4 @@
 # ReactConversor
-Conversor de moedas com React
 
 Conversor de moedas com React
 
